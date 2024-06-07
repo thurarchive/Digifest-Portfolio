@@ -1,4 +1,4 @@
-# Customer Behavior Analysis of Loan Property Customers; DIGIFEST by Rakamin 
+# Behavior Analysis of Loan Property Customers; DIGIFEST by Rakamin 
 
 ## Project Overview
 
